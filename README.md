@@ -1,1 +1,27 @@
-# basic_port_scanner
+# 🔍 Port Scanner — A Simple Python Project
+
+Hey there! 👋  
+This is a **basic but powerful TCP port scanner** written in Python. It helps you find open ports on any target IP address or domain, and even tells you what kind of services are running on those ports (like HTTP, SSH, etc.).
+
+I made this as part of my learning in cybersecurity 🛡️ and ethical hacking 🧠.
+
+---
+
+## ✨ Features
+
+- 🚀 Fast multithreaded scanning (up to 80 threads)
+- 🌐 Scan IP addresses or domain names
+- 🧠 Automatically identifies common services (like http, ssh)
+- 🔒 Special handling for HTTPS (port 443 with SSL handshake)
+- 📈 Real-time progress bar during the scan
+- 🎨 Beautiful and colorful terminal output using `colorama`
+- 💾 Option to save the results to a file
+
+---
+
+## 🧪 How to Use
+
+### ▶️ Running the Script
+
+```bash
+python port_scanner.py
