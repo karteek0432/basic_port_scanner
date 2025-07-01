@@ -18,7 +18,7 @@ I made this as part of my learning in cybersecurity 🛡️ and ethical hacking 
 - 💾 Option to save the results to a file
 
 ---
-## Screenshort
+## 📸 Screenshort
 ![image](https://github.com/user-attachments/assets/9c22908c-1989-4daa-ba6a-9998b9a717b9)
 
 ## 🧪 How to Use
